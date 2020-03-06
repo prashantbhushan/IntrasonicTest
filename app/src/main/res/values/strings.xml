@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntrasonicTest</string>
+    <string name="input_hint">Enter numbers separated by `,`</string>
+    <string name="btn_text">Calculate</string>
+    <string name="mean">Mean : %1$s</string>
+    <string name="median">Median : %1$s</string>
+</resources>
